@@ -1,3 +1,4 @@
 # pizza-hunt
-Pizza Hunt
-web app:https://guarded-citadel-68977.herokuapp.com/
+Pizza Hunt 
+
+Web: https://guarded-citadel-68977.herokuapp.com/
